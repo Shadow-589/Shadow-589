@@ -1,15 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Saurabh</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune, India 🇮🇳</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/100rabhcsmc" target="blank">
-    <img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" />
-  </a>
-</p>
+<h1 align="center">Hola 👋, Yo soy <a href="https://github.com/Shadow-589" target="blank">Josue Cervantes</a></h1>
+<h3 align="center">Un estudiante de la universidad tecnologica de la tierra caliente</h3>
 
 <!-- Imagen GIF alineada a la derecha con separación -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
@@ -31,12 +21,12 @@
 
 <!-- Tecnología -->
 <div id="user-content-toc" align="center" style="margin-top: 40px;">
-  <h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2>
+  <h2 style="display: inline-block">Tecnologías que conozco  👨🏻‍💻</h2>
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,firebase,github,html,java,js,linux,md,mongodb,mysql,nodejs,react,vscode=14" />
   </a>
 </p>
 
